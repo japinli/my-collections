@@ -2,6 +2,13 @@
 
 Preferred resource is official documentation.
 
+## Programming Languages
+
+### C
+
+1. [C Struct Padding Initialization](https://interrupt.memfault.com/blog/c-struct-padding-initialization)
+2. [The Lost Art of Structure Packing](http://www.catb.org/esr/structure-packing/)
+
 ## Database
 
 ### [PostgreSQL][]
