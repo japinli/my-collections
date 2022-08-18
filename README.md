@@ -30,5 +30,10 @@ Preferred resource is official documentation.
 2. https://postgrespro.com/community/books/internals
 
 
+## Others
+
+1. [Quick Reference](https://quickref.me/)
+
+
 [C]: https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html
 [PostgreSQL]: https://www.postgresql.org/docs/current/index.html
