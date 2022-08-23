@@ -12,6 +12,11 @@ Preferred resource is official documentation.
 
 ## Database
 
+### Generic
+
+1. [Readings in Database Systems, 5th Edition](https://redbook.io/)
+
+
 ### [PostgreSQL][]
 
 #### Blogs
