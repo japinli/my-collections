@@ -28,6 +28,7 @@ Preferred resource is official documentation.
 5. https://andreas.scherbaum.la/blog/
 6. https://momjian.us/main/blogs/pgblog.html
 7. http://zhangshujie.cn/
+8. https://www.postgresql.fastware.com/blog
 
 #### Books
 
@@ -38,6 +39,7 @@ Preferred resource is official documentation.
 ## Others
 
 1. [Quick Reference](https://quickref.me/)
+2. [Software Optimization Resources](https://www.agner.org/optimize/)
 
 
 [C]: https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html
