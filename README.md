@@ -36,6 +36,15 @@ Preferred resource is official documentation.
 2. https://postgrespro.com/community/books/internals
 
 
+## Tools
+
+### [GDB][]
+
+1. [Debugging Under Unix: gdb Tutorial](https://www.cs.cmu.edu/~gilpin/tutorial/)
+2. [GDB Tutorial: Some Cool Tips to Debug C/C++ Code](https://www.techbeamers.com/how-to-use-gdb-top-debugging-tips/)
+3. [Give me 15 minutes & I'll change your view of GDB](https://www.youtube.com/watch?v=PorfLSr3DDI)
+
+
 ## Others
 
 1. [Quick Reference](https://quickref.me/)
@@ -44,3 +53,4 @@ Preferred resource is official documentation.
 
 [C]: https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html
 [PostgreSQL]: https://www.postgresql.org/docs/current/index.html
+[GDB]: https://www.sourceware.org/gdb/documentation/
