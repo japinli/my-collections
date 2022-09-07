@@ -6,6 +6,9 @@
 
    Partial Indexes, Index Only Scans, Covering Indexes, Prefix Indexes (MySQL)
 
+2. [How Postgres Makes Transactions Atomic](https://brandur.org/postgres-atomicity)
+
+
 ## PPTs
 
 1. [Scalable MVCC Solution for Many Core Machines](https://www.pgcon.org/2015/schedule/events/810.en.html)
