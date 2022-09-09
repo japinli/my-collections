@@ -26,3 +26,7 @@
    * Ridiculous No-Planner-Hints Dogma - In-core planner hints
    * No Block Compression - Block-level compression
 
+
+## Talks
+
+* [Andres Freund](https://anarazel.de/talks/)
