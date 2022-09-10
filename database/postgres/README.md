@@ -26,6 +26,8 @@
    * Ridiculous No-Planner-Hints Dogma - In-core planner hints
    * No Block Compression - Block-level compression
 
+4. [Transaction Processing in PostgreSQL](https://www.postgresql.org/files/developer/transactions.pdf)
+
 
 ## Talks
 
