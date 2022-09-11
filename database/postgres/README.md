@@ -1,12 +1,34 @@
-# PostgreSQL
+# [PostgreSQL][]
 
 ## Blogs
+
+### Site Blogs
+
+1. [PostgreSQL Planet](https://planet.postgresql.org/)
+2. [PostgresPro](https://postgrespro.com/blog)
+3. [Cybertec](https://www.cybertec-postgresql.com/en/blog/)
+4. [Fujitsu PostgreSQL Blog](https://www.postgresql.fastware.com/blog)
+
+### Personal Blogs
+
+1. [Bruce Momjian](https://momjian.us/)
+2. [Andreas Scherbaum](https://andreas.scherbaum.la/)
+3. [张树杰 Zhang ShuJie](http://zhangshujie.cn/)
+
+
+### Articles
 
 1. [PostgreSQL Indexes: B-Tree](https://commandprompt.com/education/postgresql-indexes-b-tree/)
 
    Partial Indexes, Index Only Scans, Covering Indexes, Prefix Indexes (MySQL)
 
 2. [How Postgres Makes Transactions Atomic](https://brandur.org/postgres-atomicity)
+
+
+## Books
+
+1. [The Internals of PostgreSQL](https://www.interdb.jp/pg/)
+2. [PostgreSQL 14 Internals](https://postgrespro.com/community/books/internals)
 
 
 ## PPTs
@@ -32,3 +54,6 @@
 ## Talks
 
 * [Andres Freund](https://anarazel.de/talks/)
+
+
+[PostgreSQL]: https://www.postgresql.org/docs/current/index.html
