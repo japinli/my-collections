@@ -14,6 +14,7 @@
 1. [Bruce Momjian](https://momjian.us/)
 2. [Andreas Scherbaum](https://andreas.scherbaum.la/)
 3. [张树杰 Zhang ShuJie](http://zhangshujie.cn/)
+4. [Peter Eisentraut](http://peter.eisentraut.org/)
 
 
 ### Articles
