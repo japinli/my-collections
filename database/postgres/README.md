@@ -37,8 +37,6 @@
 1. [Scalable MVCC Solution for Many Core Machines](https://www.pgcon.org/2015/schedule/events/810.en.html)
 2. [The Future is CSN](https://postgrespro.ru/media/2019/10/26/future_is_csn.pdf)
 3. [Solving Postgres Wicked Problems](https://www.socallinuxexpo.org/sites/default/files/presentations/solving-postgres-wicked-problems.pdf)
-4. [Don't Need a Database Backup Policy](https://www.postgresql.eu/events/pgdaymed2023/sessions/session/4506/slides/375/Don't%20Need%20DB%20Backup%20Policy%20V4.pdf)
-
    * Wraparound - Native 64-bit transaction ids
    * Failover Will Probably Lose Data - Multimaster replcation
    * Inefficient Replication That Spreads Corruption - Row-level replication
@@ -49,7 +47,7 @@
    * Somewhat Cumbersome Replication Setup - Simple setup of raft-based multimaster
    * Ridiculous No-Planner-Hints Dogma - In-core planner hints
    * No Block Compression - Block-level compression
-
+4. [Don't Need a Database Backup Policy](https://www.postgresql.eu/events/pgdaymed2023/sessions/session/4506/slides/375/Don't%20Need%20DB%20Backup%20Policy%20V4.pdf)
 4. [Transaction Processing in PostgreSQL](https://www.postgresql.org/files/developer/transactions.pdf)
 
 
