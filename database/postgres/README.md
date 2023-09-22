@@ -48,7 +48,8 @@
    * Ridiculous No-Planner-Hints Dogma - In-core planner hints
    * No Block Compression - Block-level compression
 4. [Don't Need a Database Backup Policy](https://www.postgresql.eu/events/pgdaymed2023/sessions/session/4506/slides/375/Don't%20Need%20DB%20Backup%20Policy%20V4.pdf)
-4. [Transaction Processing in PostgreSQL](https://www.postgresql.org/files/developer/transactions.pdf)
+5. [Transaction Processing in PostgreSQL](https://www.postgresql.org/files/developer/transactions.pdf)
+6. [Party Tricks for PostgreSQL perf, ftrace and bpftrace](https://www.postgresql.eu/events/pgconfeu2022/sessions/session/3861/slides/325/Dmitrii_Dolgov_PGConf_EU_2022.pdf)
 
 
 ## Talks
